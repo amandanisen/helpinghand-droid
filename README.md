@@ -1,2 +1,0 @@
-# helpinghand-droid
-android backup
